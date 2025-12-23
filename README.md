@@ -1,9 +1,9 @@
 ### 
 <p align="center" width="400">
    <img align="center" src="https://user-images.githubusercontent.com/5873347/233513990-1e220207-1932-4b0d-9bca-00c93e2d3112.png" />
-   <h3 align="center">Hi there 👋! I’m ### Kelly Salazar 💻, a ### freelance full-stack developer with over 12 years of experience in web development.  
-I specialize in ### Laravel/PHP and ### Django/Python, with additional skills in ### Vue.js, React, AWS, and relational databases.  
-My focus is on building ### scalable SaaS platforms, marketplaces, and ERP/POS systems, always applying clean code principles and secure architectures. 🌍🚀
+   <h3 align="center">Hi there 👋! I’m Kelly Salazar 💻, a freelance full-stack developer with over 12 years of experience in web development.  
+I specialize in Laravel/PHP and Django/Python, with additional skills in Vue.js, React, AWS, and relational databases.  
+My focus is on building scalable SaaS platforms, marketplaces, and ERP/POS systems, always applying clean code principles and secure architectures. 🌍🚀
 </h3>
 </p>
 
